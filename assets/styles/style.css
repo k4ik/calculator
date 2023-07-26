@@ -43,3 +43,12 @@ button {
 button:hover {
     background-color: rgb(63, 63, 63);
 }
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #dcdcdc;
+}
