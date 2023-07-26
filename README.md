@@ -6,9 +6,9 @@
 
 <h2>Features</h2>
 <ul>
-    <li>All basic operations are supported (divide, multiple, remainder, add, subtract).</li>
+    <li>All basic operations are supported (divide, multiple, sum, subtract).</li>
 
-<li>Comes with options to clear/delete a single input (backspace) OR clear the whole display.</li>
+<li>Comes with options to clear/delete or clear the whole display.</li>
 </ul>
 
 
